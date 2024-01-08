@@ -1,6 +1,6 @@
 # Programming 1 Repository
 
-This repository contains C and C++ programs developed for the "Programming 1" course at [Your College/University].
+This repository contains C and C++ programs developed for the "Programming 1" course.
 
 ## Table of Contents
 
